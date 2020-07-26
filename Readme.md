@@ -1,4 +1,4 @@
-![github_banner](https://photos.app.goo.gl/BhUUpmgK2Ru7w2Mg7 )
+![github_banner](github_banner.jpg )
 
 
 Hi. I'm Kunal. I am a Software Engineer from India.
