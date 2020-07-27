@@ -1,4 +1,4 @@
-![github_banner](github_banner.jpg )
+![github_banner]( https://res.cloudinary.com/kunal-img/image/upload/v1595820256/github_banner_tk4nmk.jpg )
 
 
 Hi. I'm Kunal. I am a Software Engineer from India.
