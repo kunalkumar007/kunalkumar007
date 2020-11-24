@@ -3,4 +3,11 @@
 
 Hi. I'm Kunal Kumar. I am a Software Engineer from India 🇮🇳.
 
-I work as a Web Developer. For more information about me, check out my [Resume](https://kunalkumar007.github.io/resume/) and [Linkedin](https://www.linkedin.com/in/kunalkumar007) .
+I work as a Web Developer. For more information about me, check out https://kunalkumar007.github.io/resume/ 
+
+Social Profile:
+
+Linkedin: [https://www.linkedin.com/in/kunalkumar007](https://www.linkedin.com/in/kunalkumar007) .
+
+gmail: [kunalkumar06022003@gmail.com](mailto:kunalkumar06022003@gmail.com)
+
