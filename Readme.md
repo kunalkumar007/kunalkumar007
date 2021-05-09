@@ -4,7 +4,7 @@
 
 Hi. I'm Kunal Kumar. I am a Software Engineer from India 🇮🇳.
 
-I work as a Web Developer.🤗️ For more information about me, check out➡️ https://kunalkumar007.github.io/resume/ 
+I work as a Web Developer.🤗️ For more information about me, check out ➡️ https://kunalkumar007.github.io/resume/ 
 
 Social Profile:
 
