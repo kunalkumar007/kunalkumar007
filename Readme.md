@@ -8,7 +8,7 @@ I work as a Web Developer.🤗️ For more information about me, check out ➡�
 
 Social Profile:
 
-Linkedin: [/in/kunalkumar007](https://www.linkedin.com/in/kunalkumar007) .
+👨‍💼️ Linkedin: [/in/kunalkumar007](https://www.linkedin.com/in/kunalkumar007) .
 
-gmail: [kunalkumar06022003@gmail.com](mailto:kunalkumar06022003@gmail.com)
+📧️ gmail: [kunalkumar06022003@gmail.com](mailto:kunalkumar06022003@gmail.com)
 
