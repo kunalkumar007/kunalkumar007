@@ -11,7 +11,7 @@ Social Profile:
 
 👨‍💼️ Linkedin: [/in/kunalkumar007](https://www.linkedin.com/in/kunalkumar007) .
 
-📧️ gmail: [kunalkumar06022003@gmail.com](mailto:kunalkumar06022003@gmail.com)
+📧️ gmail: [kunalinbox83@gmail.com](mailto:kunalkumar06022003@gmail.com)
 
 
 ### Github Stats
