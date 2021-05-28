@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+  <img src="https://profile-counter.glitch.me/kunalkumar007/count.svg" />
 </p>
 
 Hi. I'm Kunal Kumar. I am a Software Engineer from India 🇮🇳.
@@ -12,4 +12,9 @@ Social Profile:
 👨‍💼️ Linkedin: [/in/kunalkumar007](https://www.linkedin.com/in/kunalkumar007) .
 
 📧️ gmail: [kunalkumar06022003@gmail.com](mailto:kunalkumar06022003@gmail.com)
+
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kunalkumar007&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 
