@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar007&label=Profile%20views&color=1dc95f&style=flat-square" alt="kunalkumar007" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kunalkumar007.github.io/resume/](https://kunalkumar007.github.io/resume/)
+- 👨‍💻 All of my projects are available at [https://kunalkumar007.github.io](https://kunalkumar007.github.io/)
 
 - 💬 Ask me about **react,react native**
 
 - 📫 How to reach me **kunalinbox83@gmail.com**
 
-- 📄 Know about my experiences [https://kunalkumar007.github.io/resume/Kunal_Kumar.pdf](https://kunalkumar007.github.io/resume/Kunal_Kumar.pdf)
+- 📄 Know about my experiences [resume/Kunal_Kumar.pdf](https://kunalkumar007.github.io/resume/Kunal_Kumar.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
