@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kunalinbox83@gmail.com**
 
-- 📄 Know about my experiences [resume/Kunal_Kumar.pdf](https://kunalkumar007.github.io/resume/Kunal_Kumar.pdf)
+- 📄 Know about my experiences [resume/Kunal_Kumar.pdf](https://kunalkumar007.github.io/Kunal_Kumar.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
