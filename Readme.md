@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kunal kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar007&label=Profile%20views&color=1dc95f&style=flat-square" alt="kunalkumar007" /> </p>
 
