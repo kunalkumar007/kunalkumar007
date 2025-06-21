@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kunalinbox83@gmail.com**
 
-- 📄 Know about my experiences [resume/Kunal_Kumar.pdf](https://kunalkumar007.github.io/Kunal_Kumar.pdf)
+- 📄 Know about my experiences [resume/Kunal_Kumar.pdf](https://drive.google.com/file/d/1oI8MXEqdr5hj4kAjSIokpQJtHN52sw_g/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
