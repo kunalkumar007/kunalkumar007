@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar007&label=Profile%20views&color=1dc95f&style=flat-square" alt="kunalkumar007" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://kunalkumar007.github.io](https://kunalkumar007.github.io/)
+- 👨‍💻 All of my projects are available at [https://kunalkumar007.vercel.app](https://kunalkumar007.vercel.app/)
 
 - 💬 Ask me about **react,react native**
 
